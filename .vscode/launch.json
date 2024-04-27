@@ -1,0 +1,13 @@
+{
+    "configurations": [
+    {
+        "type": "node",
+        "name": "Launch Program",
+        "program": "${workspaceFolder}/build/index.js",
+        "request": "launch",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+    }
+    ]
+}
