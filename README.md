@@ -1,3 +1,5 @@
+#Step-by-step setup
+
 Pre-requisite: Download and install docker. You will use it to run a local PostgreSQL database.
 Before running the following commands, please start docker.
 
